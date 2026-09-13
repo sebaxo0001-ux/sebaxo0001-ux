@@ -1,16 +1,17 @@
-## Hi there 👋
+## Estudiante de Negocios Internacionales (UNMSM) | Data & Business Intelligence | Excel · Power BI · SQL · Python | Buscando prácticas en análisis de datos / BI ⚡
 
-<!--
-**sebaxo0001-ux/sebaxo0001-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola a todos, me llamo Sebastian, estoy comenzando a entrar en este mundo de la programacion y datos, 
+estoy actualmente comenzando con distintas herramientas para dominar el mundo del analisis de datos y la ciencia de datos.
+Hoy soy principiante buscando ser experto algun dia.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estudiante de Negocios Internacionales en la UNMSM (6to ciclo), combinando visión de negocio con herramientas de datos.
+
+-🔧 Trabajo con SQL, Excel, Power BI y Python para transformar datos en decisiones.
+
+-📊 Me interesa el análisis de datos, business intelligence e inteligencia artificial aplicados a comercio internacional y negocios.
+
+-🎯 Buscando prácticas en análisis de datos / BI, Aduanas y del sector de importación/exportación.
+
+-📌 Aquí encontrarás proyectos de práctica aplicando estas herramientas a casos reales de negocio.
+
